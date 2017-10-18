@@ -5,12 +5,10 @@ frontend-nanodegree-arcade-game
 This is a simple arcade game written in JavaScript. It is one of the projects in
 Udacity's Frontend Nanodegree program.
 
-Details of the project can be found in this [guide][1].
-
 The basic game engine and graphics were supplied by Udacity. Game logic and
 features such as lives and high score were developed by me.
 
-This repository was cloned from this Udacity [repository][2].
+This repository was cloned from this Udacity.
 So you can see exactly what was my starting point.
 
 ## Required Libraries and Dependencies
